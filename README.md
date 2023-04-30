@@ -1,5 +1,13 @@
 Hi 👋 My name is Mohit Kate
-===========================Frontend Developer------------------I am a Frontend Developer having experience in different technologies like HTML, CSS, java script, React, Angular, VeuJS(knowledge), Python, OOPS etc.* 🌍  I'm based in Hyderabad, India* ✉️  You can contact me at [mohitkate1611@gamail.com](mailto:mohitkate1611@gamail.com)* 🧠  I'm learning React* 🤝  I'm open to collaborating on Projects* ⚡  I am Batman , Tell EveryOne
+
+I am Frontend Developer
+
+I am having experience in different technologies like HTML, CSS, java script, React, Angular, VeuJS(knowledge), Python, OOPS etc.
+* 🌍  I'm based in Hyderabad, India*
+*  ✉️  You can contact me at [mohitkate1611@gamail.com](mailto:mohitkate1611@gamail.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Projects*
+* ⚡  I am Batman , Tell EveryOne
 
 <a href="https://www.github.com/MohitKate" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MohitKate?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
