@@ -7,7 +7,7 @@ I am having experience in different technologies like HTML, CSS, java script, Re
 *  ✉️  You can contact me at [mohitkate1611@gamail.com](mailto:mohitkate1611@gamail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects*
-* ⚡  I am Batman , Tell EveryOne
+
 
 <a href="https://www.github.com/MohitKate" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MohitKate?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
